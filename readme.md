@@ -1,9 +1,9 @@
 ```
 go version go1.19.2 darwin/arm64
 
-go build hellohttp.go
+go build main.go
 
-./hellohttp
+./main
 
 curl localhost:8080
 ```
